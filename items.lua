@@ -1,5 +1,6 @@
 return {
 PlaceObj('ModItemCode', {
+	'name', "ColonistsNeedOxygenNotDomes",
 	'FileName', "Code/ColonistsNeedOxygenNotDomes.lua",
 }),
 PlaceObj('ModItemOptionNumber', {
